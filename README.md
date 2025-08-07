@@ -1,8 +1,8 @@
-#  Bienvenue sur mon profil GitHub !
+#  Welcome to my GitHub profile!
 
-Je m'appelle **Meriem Trabelsi**, élève ingénieur @ISI Tunis Manar, passionnée par la création de solutions technologiques innovantes. J’aime travailler sur des projets qui combinent rigueur technique et impact pratique, comme des applications web ou des systèmes d’automatisation.
+My name is **Meriem Trabelsi**, an engineering student at **ISI Tunis Manar**, passionate about building innovative tech solutions. I enjoy working on projects that combine technical rigor with real-world impact, such as web applications or automation systems.
 
 
-## 👀 Compteur de vues
+## 👀  View Counter
 ![Visites](https://visitor-badge.laobi.icu/badge?page_id=mariem-trabelsi.mariem-trabelsi)
 
