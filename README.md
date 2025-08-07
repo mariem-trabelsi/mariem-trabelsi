@@ -1,6 +1,6 @@
-# 👋 Bienvenue sur mon profil GitHub !
+#  Bienvenue sur mon profil GitHub !
 
-Je m'appelle **Meriem Trabelsi**, développeuse passionnée par la création de solutions technologiques innovantes. J’aime travailler sur des projets qui combinent rigueur technique et impact pratique, comme des applications web ou des systèmes d’automatisation.
+Je m'appelle **Meriem Trabelsi**, élève ingénieur @ISI Tunis Manar, passionnée par la création de solutions technologiques innovantes. J’aime travailler sur des projets qui combinent rigueur technique et impact pratique, comme des applications web ou des systèmes d’automatisation.
 
 
 ## 👀 Compteur de vues
