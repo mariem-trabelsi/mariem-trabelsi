@@ -1,6 +1,6 @@
 💙  **Welcome to my GitHub profile!**
 
-This is **Meriem Trabelsi**, software engineering student at **ISI Tunis Manar**, passionate about building innovative tech solutions. I enjoy working on projects that combine technical rigor with real-world impact, such as **automation systems**.
+Software engineering student at **ISI Tunis Manar**, with a strong interest in **automation systems**, **DevOps**, and **microservices architectures**. I am motivated by building scalable, efficient solutions that bridge technical excellence with real-world business needs.
 
 
 ## 👀  View Counter
